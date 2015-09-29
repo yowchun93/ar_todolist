@@ -1,7 +1,7 @@
 require_relative 'config/application'
 require_relative 'app/controllers/controller'
 
-byebug
+
 #Parsing the command line data
 command = ARGV[0]
 stuff= ARGV[1..-1]
